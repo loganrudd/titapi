@@ -1,0 +1,11 @@
+name: titapi
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - fastapi
+  - uvicorn
+  - scikit-learn
+  - requests
+  - pip:
+      - mangum
