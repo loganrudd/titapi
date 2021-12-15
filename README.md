@@ -1,3 +1,7 @@
+## Synopsis
+
+A simple FastAPI to predict passenger survival aboard the Titanic.
+
 ## Installation
 
 Creat a [Conda](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html) 
